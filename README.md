@@ -1,0 +1,3 @@
+👋 Welcome!
+I'm an aspiring Data Scientist with a Ph.D. in Computational Astrophysics, blending deep research experience with strong programming, data analysis, and statistical modeling skills. Proficient in developing scalable, reusable tools and pipelines for extracting insights from complex datasets. Solid foundation in machine learning, with hands-on experience in model development, evaluation, and interpretation. Known for critical thinking, attention to detail, and collaborative problem-solving. Eager to leverage analytical expertise and a scientific mindset to drive data-informed decisions in dynamic, real-world settings.
+
