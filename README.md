@@ -4,7 +4,7 @@ I'm an aspiring Data Scientist with a Ph.D. in Computational Astrophysics, blend
 
 ## Projects
 
-- [Handwritten digits recognition](https://github.com/GeorgiosKleftogiannis/Neural_Network_on_Star_Spots)
+- [Handwritten digits recognition](https://github.com/GeorgiosKleftogiannis/Handwritten_digit_recognizer)
 - [Neural Network on Star Spots](https://github.com/GeorgiosKleftogiannis/Neural_Network_on_Star_Spots)
 
 ## Skills
